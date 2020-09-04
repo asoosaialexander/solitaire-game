@@ -1,3 +1,3 @@
 # solitaire-game
 
-Created the classic Solitaire Game in Unity Engine
+Classic Solitaire Game developed in  2D Unity Engine
